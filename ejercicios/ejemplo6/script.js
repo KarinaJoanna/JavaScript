@@ -6,7 +6,7 @@ function abrirRegalo(event){
     const newImage = document.createElement('img');
     newImage.src = 'giphy.gif';
 
-    const container = document.querySelector('#container');
+    const container = document.querySelector('#contenedor');
     container.innerHTML = '';
     container.appendChild(newHeader);
     container.appendChild(newImage);
