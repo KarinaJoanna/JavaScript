@@ -3,7 +3,7 @@ function abrirRegalo(event){
     image.src = 'giphy.gif';
 
     const mensaje = document.querySelector('h1');
-    mensaje.textContent = '¡Felicidades!';
+    mensaje.innerHTML =  '¡Felicidades!';
     
     image.removeEventListener('click', abrirRegalo);
 }
