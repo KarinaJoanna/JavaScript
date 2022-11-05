@@ -20,11 +20,11 @@
     align-items: center;
 }
 
-#modal-view{
+#modal-view {
     max-height: 100%;
     max-width: 100%;
 }
 
-#modal-view.hidden{
+#modal-view.hidden {
     display: none;
 }
