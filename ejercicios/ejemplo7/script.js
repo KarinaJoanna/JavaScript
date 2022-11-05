@@ -1,4 +1,4 @@
-function abrirRegalo (event){
+function abrirRegalo(event) {
 
     const image = event.currentTarget;
     image.removeEventListener('click', abrirRegalo);
