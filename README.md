@@ -23,6 +23,7 @@ Estas son algunos de los programas que se utilizaron y sus extensiones.
   
 * GitHub Desktop
   
+-----
 
 ### Ejemplo 0
 
