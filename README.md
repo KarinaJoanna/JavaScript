@@ -1,5 +1,5 @@
 <!-- ABOUT THE PROJECT -->
-## Ejemplos JavaScript
+## Ejemplos JavaScript, parte 1
 
 ### Programación basada en eventos
 
